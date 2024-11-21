@@ -29,21 +29,27 @@ _Additional:_
 
 ---
 
-Code:
+**Code:**
 
+```
 var number = function(busStops){
-let n = 0;
-busStops.forEach(stop => {
-n = n + stop[0] - stop[1];
+  let n = 0;
+  busStops.forEach(stop => {
+    n = n + stop[0] - stop[1];
 });
-return n;
+  return n;
 }
 
-Courses:
+```
 
-RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-Languages
+**Courses:**
 
-Belarusian - native speaker.
-Russian - native speaker.
-English - Intermediate/Upper-intermediate (according to the online test at EFset).git add /
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+---
+
+**Languages**
+
+- Belarusian - **native speaker**.
+- Russian - native speaker.
+- English - Intermediate/Upper-intermediate (according to the online test at EFset).
