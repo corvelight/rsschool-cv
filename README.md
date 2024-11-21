@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://corvelight.github.io/rsschool-cv/cvgi
+https://corvelight.github.io/rsschool-cv/cv
